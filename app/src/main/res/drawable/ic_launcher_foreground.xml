@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Notebook Cover Base (Rounded Rectangle) -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M34,24 h40 c4.4,0 8,3.6 8,8 v44 c0,4.4 -3.6,8 -8,8 h-40 c-4.4,0 -8,-3.6 -8,-8 v-44 c0,-4.4 3.6,-8 8,-8 z" />
+    
+    <!-- Notebook Spine/Accent (Warm Slate Blue) -->
+    <path
+        android:fillColor="#FF2C3E50"
+        android:pathData="M26,24 h8 v60 h-8 c-4.4,0 -8,-3.6 -8,-8 v-44 c0,-4.4 3.6,-8 8,-8 z" />
+
+    <!-- Spine Binding Rings -->
+    <path
+        android:fillColor="#FFBDC3C7"
+        android:pathData="M22,34 h12 v3 h-12 z M22,46 h12 v3 h-12 z M22,58 h12 v3 h-12 z M22,70 h12 v3 h-12 z" />
+
+    <!-- Horizontal Lines representing writing -->
+    <path
+        android:fillColor="#FFE0E0E0"
+        android:pathData="M42,38 h32 v4 h-32 z M42,48 h32 v4 h-32 z M42,58 h32 v4 h-32 z M42,68 h20 v4 h-20 z" />
+
+    <!-- Calligraphy Fountain Pen overlay -->
+    <path
+        android:fillColor="#FFE74C3C"
+        android:pathData="M84,32 L56,60 L50,62 L52,56 L80,28 Z" />
+    
+    <!-- Pen Nib (Gold) -->
+    <path
+        android:fillColor="#FFF1C40F"
+        android:pathData="M50,62 L51,59 L54,58 L54,61 C53,61 51,62 50,62 Z" />
+</vector>

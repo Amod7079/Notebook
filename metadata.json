@@ -1,0 +1,6 @@
+{
+  "name": "Notebook",
+  "description": "A digital notebook application that allows users to write naturally using different pens, colors, and page styles, similar to a real notebook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
